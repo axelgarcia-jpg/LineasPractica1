@@ -1,0 +1,23 @@
+/Users/axeldurazo/Downloads/Practica lineass/obj/Debug/net10.0/Practica lineass.csproj.AssemblyReference.cache
+/Users/axeldurazo/Downloads/Practica lineass/obj/Debug/net10.0/Practica lineass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axeldurazo/Downloads/Practica lineass/obj/Debug/net10.0/Practica lineass.AssemblyInfoInputs.cache
+/Users/axeldurazo/Downloads/Practica lineass/obj/Debug/net10.0/Practica lineass.AssemblyInfo.cs
+/Users/axeldurazo/Downloads/Practica lineass/obj/Debug/net10.0/Practica lineass.csproj.CoreCompileInputs.cache
+/Users/axeldurazo/Downloads/Practica lineass/bin/Debug/net10.0/Practica lineass
+/Users/axeldurazo/Downloads/Practica lineass/bin/Debug/net10.0/Practica lineass.deps.json
+/Users/axeldurazo/Downloads/Practica lineass/bin/Debug/net10.0/Practica lineass.runtimeconfig.json
+/Users/axeldurazo/Downloads/Practica lineass/bin/Debug/net10.0/Practica lineass.dll
+/Users/axeldurazo/Downloads/Practica lineass/bin/Debug/net10.0/Practica lineass.pdb
+/Users/axeldurazo/Downloads/Practica lineass/bin/Debug/net10.0/Raylib-cs.dll
+/Users/axeldurazo/Downloads/Practica lineass/bin/Debug/net10.0/runtimes/browser-wasm/native/raylib.a
+/Users/axeldurazo/Downloads/Practica lineass/bin/Debug/net10.0/runtimes/linux-x64/native/libraylib.so
+/Users/axeldurazo/Downloads/Practica lineass/bin/Debug/net10.0/runtimes/osx-arm64/native/libraylib.dylib
+/Users/axeldurazo/Downloads/Practica lineass/bin/Debug/net10.0/runtimes/osx-x64/native/libraylib.dylib
+/Users/axeldurazo/Downloads/Practica lineass/bin/Debug/net10.0/runtimes/win-x64/native/raylib.dll
+/Users/axeldurazo/Downloads/Practica lineass/bin/Debug/net10.0/runtimes/win-x86/native/raylib.dll
+/Users/axeldurazo/Downloads/Practica lineass/obj/Debug/net10.0/Practica.6B799545.Up2Date
+/Users/axeldurazo/Downloads/Practica lineass/obj/Debug/net10.0/Practica lineass.dll
+/Users/axeldurazo/Downloads/Practica lineass/obj/Debug/net10.0/refint/Practica lineass.dll
+/Users/axeldurazo/Downloads/Practica lineass/obj/Debug/net10.0/Practica lineass.pdb
+/Users/axeldurazo/Downloads/Practica lineass/obj/Debug/net10.0/Practica lineass.genruntimeconfig.cache
+/Users/axeldurazo/Downloads/Practica lineass/obj/Debug/net10.0/ref/Practica lineass.dll

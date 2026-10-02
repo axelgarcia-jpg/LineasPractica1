@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fwrS8rIyihw=",
+  "success": true,
+  "projectFilePath": "/Users/axeldurazo/Downloads/Practica lineass/Practica lineass.csproj",
+  "expectedPackageFiles": [
+    "/Users/axeldurazo/.nuget/packages/raylib-cs/8.1.0/raylib-cs.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
